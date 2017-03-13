@@ -1,10 +1,13 @@
 _repo: The-Idiot_2638
-_version: 0.1.1
+_version: 0.2.0
 contributor:
   translator:
     agent_name: Martin, Eva M.
     gutenberg_agent_id: '981'
     url: http://www.gutenberg.org/2009/agents/981
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Dostoyevsky, Fyodor
@@ -32,6 +35,8 @@ description: "The Idiot (Russian: Идио́т, Idiot) is a novel by the 19th-ce
   \ involved. The result, according to philosopher A.C. Grayling, is \"one of the\
   \ most excoriating, compelling and remarkable books ever written; and without question\
   \ one of the greatest.\"\n From Wikipedia (CC BY-SA)."
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/2638#The-Idiot
 gutenberg_bookshelf: Best Books Ever Listings
 gutenberg_issued: '2001-05-01'
 gutenberg_type: Text
